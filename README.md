@@ -6,6 +6,6 @@
 
 html5 css3 Bootstrap <br>
 
-![](bslandingpage1.gif)
+![](bslandıngpage1.gif)
 
 
